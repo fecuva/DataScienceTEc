@@ -1,1 +1,1 @@
-# DataScienceTEc
+# DataScienceTec
